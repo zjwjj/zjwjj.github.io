@@ -1,6 +1,9 @@
-# 欢迎访问
+# 欢迎访问我的Git主页
 
 这是一个使用 git 创建的个人主页，使用了 git 提供的 theme，按如下描述可以进行 html 编辑。
+
+### 也可以访问我的个人网站 http://www.ijsj.net/
+### 还可以访问我的个人网站 http://www.aoabc.com.cn/
 
 ## Welcome to GitHub Pages
 
