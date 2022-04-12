@@ -1,3 +1,7 @@
+# 欢迎访问
+
+这是一个使用 git 创建的个人主页，使用了 git 提供的 theme，按如下描述可以进行 html 编辑。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zjwjj/zjwjj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
